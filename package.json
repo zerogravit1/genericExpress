@@ -1,0 +1,32 @@
+{
+  "name": "genericexpress",
+  "version": "0.1.0",
+  "description": "generic HTTP server written with ExpressJS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerogravit1/genericExpress.git"
+  },
+  "author": "Jonathan Schaffer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zerogravit1/genericExpress/issues"
+  },
+  "homepage": "https://github.com/zerogravit1/genericExpress#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "chalk": "^2.0.1",
+    "express": "^4.15.3",
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-githooks": "*",
+    "grunt-jscs": "^3.0.1",
+    "jsonfile": "^3.0.0"
+  },
+  "devDependencies": {
+    "jscs": "^3.0.7"
+  }
+}
