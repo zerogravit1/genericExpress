@@ -1,0 +1,26 @@
+{
+    // Enforcing
+    "bitwise": true,
+    "boss": true,
+    "curly": true,
+    "eqeqeq": true,
+    "eqnull": true,
+    "expr": true,
+    "forin": true,
+    "immed": true,
+    "maxcomplexity": 5,
+    "newcap": true,
+    "noarg": true,
+    "noempty": true,
+    "nonbsp": true,
+    "nonew": true,
+    "quotmark": "single",
+    "strict": true,
+    "sub": true,
+    "trailing": true,
+    "undef": true,
+    "unused": true,
+
+    // Environment
+    "node": true
+}
